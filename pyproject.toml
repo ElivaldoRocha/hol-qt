@@ -1,0 +1,13 @@
+[project]
+name = "hol-qt"
+version = "0.1.0"
+description = "Dashboard de Gestão e Indicadores de Produtividade - Unidade de Quimioterapia (Hospital Ophir Loyola)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fpdf>=1.7.2",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "streamlit>=1.52.2",
+]
