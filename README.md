@@ -46,7 +46,7 @@ HOL_QT/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/hol-qt.git
+git clone https://github.com/ElivaldoRocha/hol-qt.git
 cd hol-qt
 ```
 
